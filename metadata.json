@@ -1,0 +1,6 @@
+{
+  "name": "BlockVote",
+  "description": "Secure, Immutable, Transparent Blockchain Elections",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
